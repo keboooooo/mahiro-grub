@@ -3,8 +3,8 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+  <a href="https://github.com/SPAWNRYS-ban/mahiro-grub">
+    <img src="photo.jpg" alt="Logo">
   </a>
 
   <h3 align="center">Mahiro Grub Theme</h3>
