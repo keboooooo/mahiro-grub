@@ -29,5 +29,5 @@ The idea to create such a topic came to my mind completely by accident. I have h
 ## Installation methods 
 1. [youtube.com/watch?v=gVuoxxv0VfA](https://www.youtube.com/watch?v=gVuoxxv0VfA) CMD
 2. [youtube.com/watch?v=V7NUnI9nerA](https://www.youtube.com/watch?v=V7NUnI9nerA) Ventoy
-3. or Grub Customizer (This is the method I use personally and it is quite simple)
+3. Grub Customizer (This is the method I use personally and it is quite simple)
 
